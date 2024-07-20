@@ -14,3 +14,9 @@ For more information on the sbt-dotty plugin, see the
 ### Dataset
 
 The dataset has been taken from kaggle.com . I do not own this data.
+
+### Setup
+
+I used Visual Studio Code for this project. All I needed to do was follow the instructions on docs.scala-lang.org, and then download a Scala extension for syntax highlighting.
+
+I did have an issue with SBT. I needed to have admin privileges to run SBT after the configuration. The sbt command was not being recognized when I wasn't an admin.
